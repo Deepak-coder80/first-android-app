@@ -2,6 +2,11 @@
 This is my first android app . 
 
 
-it will take a input string and print it with hello . you can also download this android app by the given link
+it will take a input string and print it with hello . you can download it from the outputAPK floder
 
-[link(#)] (https://drive.google.com/file/d/1fWUur8ChbH6L7xvOfzVPFozC5qMXiy9l/view?usp=sharing)
+Tools used :
+  1.Android Studio
+  2.OpenJDK 11
+  3.Git
+
+Operating system used : Ubuntu 20.04LTS
